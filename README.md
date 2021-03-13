@@ -6,9 +6,9 @@
   CSS
   Javascript
 - 📫 pueden contactar conmigo por:
-  -https://twitter.com/ImGmatsy
-  -https://www.instagram.com/gmatsy/
-  -Email: gabrielcastc@hotmail.com
+*https://twitter.com/ImGmatsy
+*https://www.instagram.com/gmatsy/
+*Email: gabrielcastc@hotmail.com
 
 <!---
 gmatsy/gmatsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
