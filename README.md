@@ -1,14 +1,17 @@
 - 👋 Hola soy @gmatsy
-- 👀 Estoy interesado en la ciberseguridad y el pentesting
-- 🌱 actualmente voy aprendiendo:
+- 👀 Estoy interasdo en la ciberseguridad y el pentesting
+- 🌱 Cuento con conocimientos en:
   Python
+  Java
+  PHP
   HTML
   CSS
   Javascript
-- 📫 pueden contactar conmigo por:
-*https://twitter.com/ImGmatsy
-*https://www.instagram.com/gmatsy/
-*Email: gabrielcastc@hotmail.com
+  penetration testing
+- 📫 pueden contactar conmigo por:<br>
+*https://twitter.com/ImGmatsy <br>
+*https://www.instagram.com/gmatsy/ <br>
+*gabrielcastc@hotmail.com
 
 <!---
 gmatsy/gmatsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
