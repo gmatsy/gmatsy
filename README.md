@@ -8,10 +8,10 @@
   CSS
   Javascript
   penetration testing
--Cuento con certificaciónes de Cisco como:
-large_blue_circle Introducción a Ciberseguridad
-large_blue_circle Cybersecurity Essentials
-large_blue_circle NDG Linux Essentials
+-Cuento con certificaciónes de Cisco como:<br>
+ Introducción a Ciberseguridad<br>
+ Cybersecurity Essentials<br>
+ NDG Linux Essentials<br>
 
 - 📫 pueden contactar conmigo por:<br>
 *https://twitter.com/ImGmatsy <br>
