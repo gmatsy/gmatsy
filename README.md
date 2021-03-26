@@ -1,13 +1,13 @@
 - 👋 Hola soy @gmatsy
 - 👀 Estoy interasdo en la ciberseguridad y el pentesting
-- 🌱 Cuento con conocimientos en:
-  Python
-  Java
-  PHP
-  HTML
-  CSS
-  Javascript
-  penetration testing
+- 🌱 Cuento con conocimientos en:<br>
+  Python<br>
+  Java<br>
+  PHP<br>
+  HTML<br>
+  CSS<br>
+  Javascript<br>
+  penetration testing<br>
 -Cuento con certificaciónes de Cisco como:<br>
  Introducción a Ciberseguridad<br>
  Cybersecurity Essentials<br>
