@@ -8,7 +8,7 @@
   CSS<br>
   Javascript<br>
   penetration testing<br>
--Cuento con certificaciónes de Cisco como:<br>
+- Cuento con certificaciónes de Cisco como:<br>
   Introducción a Ciberseguridad<br>
   Cybersecurity Essentials<br>
   NDG Linux Essentials<br>
