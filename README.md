@@ -14,10 +14,11 @@
  NDG Linux Essentials<br>
 
 - 📫 pueden contactar conmigo por:<br>
+- 
+*https://www.linkedin.com/in/gabriel-castro-346b19168/<br>
+*gabrielcastc@hotmail.com<br>
 *https://twitter.com/ImGmatsy <br>
 *https://www.instagram.com/gmatsy/ <br>
-*gabrielcastc@hotmail.com
-
 <!---
 gmatsy/gmatsy is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 You can click the Preview link to take a look at your changes.
