@@ -7,7 +7,7 @@
   HTML<br>
   CSS<br>
   Javascript<br>
-  
+- eJPTv2
 - Cuento con certificaciónes de Cisco como:<br>
   Introducción a Ciberseguridad<br>
   Cybersecurity Essentials<br>
